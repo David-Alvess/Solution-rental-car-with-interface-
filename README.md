@@ -1,6 +1,6 @@
 # Solution-rental-car-with-interface-java
 
-Neste mini projeto, foi criado um sistema que calcula os valores de alugueis para carros. 
+Neste projeto, foi criado um sistema que calcula os valores para alugueis de carros.
 
 Foram idealizadas algumas regras de negócio, fazendo com que o aluguel dependa de:
 
